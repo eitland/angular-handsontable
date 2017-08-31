@@ -32,7 +32,7 @@ import {
   MdToolbarModule,
   MdTooltipModule,
 } from '@angular/material';
-import {CdkTableModule} from '@angular/cdk';
+import {CdkTableModule} from '@angular/cdk/table';
 
 @NgModule({
   exports: [
